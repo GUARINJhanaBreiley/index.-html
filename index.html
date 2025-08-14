@@ -28,8 +28,8 @@
 </ol>
     <h3>Cooking Tips:</h3>
 <ul>
-    <li>"<sup>1/4</sup> <sub>cup</sub> of fish sauce adds authentic Thai Flavor."</li>
-    <li>"<sup>1</sup> <sub>tablespoon</sub> of chili paste gives the soup its signature heat."</li>
+    <li>"<sub>1/4</sub> <sup>cup</sup> of fish sauce adds authentic Thai Flavor."</li>
+    <li>"<sub>1</sub> <sup>tablespoon</sup> of chili paste gives the soup its signature heat."</li>
 </ul>
     <p>Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices. This hot and sour soup features a tantalizing blend of lemongrass, galangal, and Kaffir Lime Leaves, combined with succulent shrimp.</p>
     <blockquote>
